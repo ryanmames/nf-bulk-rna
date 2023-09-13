@@ -21,7 +21,7 @@ Provided with the repo is all the input data that will be needed to successfully
 * metadata.csv
 * input-seqs/
 
-The `input-seqs` directory contains 6 samples (subsets) from a publicly available dataset of transcriptomic sequencing of *Candida albicans* treated with artemether grown in spider medium, as well as untreated controls. The data can be found at A [link](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA999911 "PRJNA999911").
+The `input-seqs` directory contains 6 samples (subsets) from a publicly available dataset of transcriptomic sequencing of *Candida albicans* treated with artemether grown in spider medium, as well as untreated controls. The data can be found at the [NCBI](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA999911 "PRJNA999911").
 
 ## Setup 
 Clone the git repo
