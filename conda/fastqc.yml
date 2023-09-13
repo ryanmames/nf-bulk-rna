@@ -1,0 +1,23 @@
+name: fastqc
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - expat=2.5.0=h313beb8_0
+  - fastqc=0.12.1=hdfd78af_0
+  - font-ttf-dejavu-sans-mono=2.37=hd3eb1b0_0
+  - fontconfig=2.14.1=hee714a5_2
+  - freetype=2.12.1=h1192e45_0
+  - gdbm=1.18=h8fe7016_4
+  - icu=73.1=h313beb8_0
+  - libcxx=14.0.6=h848a8c0_0
+  - libiconv=1.16=h1a28f6b_2
+  - libpng=1.6.39=h80987f9_0
+  - libxml2=2.10.4=h0dcf63f_1
+  - ncurses=6.4=h313beb8_0
+  - openjdk=11.0.13=h98b2900_0
+  - perl=5.34.0=h1a28f6b_2
+  - readline=8.2=h1a28f6b_0
+  - xz=5.4.2=h80987f9_0
+  - zlib=1.2.13=h5a0b063_0
+prefix: /Users/ryanames/opt/miniconda3/envs/fastqc

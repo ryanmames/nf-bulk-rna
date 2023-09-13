@@ -1,0 +1,28 @@
+name: python
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - ca-certificates=2022.4.26=hecd8cb5_0
+  - certifi=2022.6.15=py38hecd8cb5_0
+  - libcxx=12.0.0=h2f01273_0
+  - libffi=3.3=hb1e8313_2
+  - ncurses=6.3=hca72f7f_2
+  - openssl=1.1.1o=hca72f7f_0
+  - pip=21.2.4=py38hecd8cb5_0
+  - python=3.8.13=hdfd78df_0
+  - readline=8.1.2=hca72f7f_1
+  - setuptools=61.2.0=py38hecd8cb5_0
+  - sqlite=3.38.5=h707629a_0
+  - tk=8.6.12=h5d9f67b_0
+  - wheel=0.34.2=py38_0
+  - xz=5.2.5=hca72f7f_1
+  - zlib=1.2.12=h4dc903c_2
+  - pip:
+    - numpy==1.24.4
+    - pandas==2.0.3
+    - python-dateutil==2.8.2
+    - pytz==2023.3.post1
+    - six==1.16.0
+    - tzdata==2023.3
+prefix: /Users/ryanames/opt/miniconda3/envs/python
